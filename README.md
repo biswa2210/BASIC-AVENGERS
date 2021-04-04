@@ -14,13 +14,13 @@ I have assembled all details and various interesting things about Avengers chara
 # MAKING
 I have used basic concepts of web development to make this web application. I have used HTML5, CSS3 and JAVASCRIPT only. 
 ## Screenshots 
-<img src="s1.png" width="200" height= "100">
-<img src="s2.png" width="200" height= "100">
-<img src="s3.png" width="200" height= "100">
-<img src="s4.png" width="200" height= "100">
-<img src="s5.png" width="200" height= "100">
-<img src="s6.png" width="200" height= "100">
-<img src="s7.png" width="200" height= "100">
-<img src="s8.png" width="200" height= "100">
-<img src="s9.png" width="200" height= "100">
-<img src="s10.png" width="200" height= "100">
+<img src="s1.PNG" width="200" height= "100">
+<img src="s2.PNG" width="200" height= "100">
+<img src="s3.PNG" width="200" height= "100">
+<img src="s4.PNG" width="200" height= "100">
+<img src="s5.PNG" width="200" height= "100">
+<img src="s6.PNG" width="200" height= "100">
+<img src="s7.PNG" width="200" height= "100">
+<img src="s8.PNG" width="200" height= "100">
+<img src="s9.PNG" width="200" height= "100">
+<img src="s10.PNG" width="200" height= "100">
