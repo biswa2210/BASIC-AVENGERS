@@ -12,7 +12,9 @@ The fans of mcu AVENGERS always want to explore about characters and the film se
 ## Importance
 I have assembled all details and various interesting things about Avengers characters and films. So, it is a good way to explore marvel comics for the worldwide fans very easily. Without spending much time user can know many interesting facts about avengers. User can also watch movies through the links provided.
 # MAKING
-I have used basic concepts of web development to make this web application. I have used HTML5, CSS3 and JAVASCRIPT only. I have used slider, card, polaroid, table, figure, row column concepts for designing. I have used animationns for text, slideshow designing. I have used [marvel fandom wiki](https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe) for references of every avengers' characters. In the home page in marvel studious I have used this link for [avengers' bio](https://www.marvel.com/characters).
+I have used basic concepts of web development to make this web application. I have used HTML5, CSS3 and JAVASCRIPT only. I have used slider, card, polaroid, table, figure, row column concepts for designing. I have used animationns for text, slideshow designing.
+I have used [marvel fandom wiki](https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe) for references of every avengers' characters. 
+In the home page in marvel studious I have used this link for [avengers' bio](https://www.marvel.com/characters).
 ## Screenshots 
 <img src="s1.PNG" width="500" height= "250"> <img src="s2.PNG" width="500" height= "250">
 
