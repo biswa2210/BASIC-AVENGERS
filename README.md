@@ -4,7 +4,7 @@
 ## This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.
 ## Email Id: bbiswa471@gmail.com. 
 ## Contact No: 916290272740. 
-[![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811)
+[![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
 
 ## About 
 The Avengers were a team of extraordinary individuals, with either superpowers or other special characteristics. Its purpose was to protect global stability from inner or extraterrestrial threats. Though primarily affiliated with the United States of America, they worked with the peaceful interests of the whole world in mind rather than a specific country or organization. The Avengers were first assembled by S.H.I.E.L.D. Under Captain America's leadership, the team completed several operations around the world with success. The story evolves till Thanos and his army had followed them, sparking the immense Battle of Earth, where Iron Man gave his life to defeat Thanos and his army. With the battle won and over, the Avengers disbanded. This web application contains 52 web pages on avengers characters including heroes and villains. Marvel studious' animation is played at the beginning. Each pages contains different designs.
