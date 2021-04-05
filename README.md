@@ -4,6 +4,7 @@
 ***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 *Email Id: bbiswa471@gmail.com.*
+
 *Contact No: 916290272740.*
 
 [![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
@@ -21,8 +22,11 @@ The fans of mcu AVENGERS always want to explore about characters and the film se
 I have assembled all details and various interesting things about Avengers characters and films. So, it is a good way to explore marvel comics for the worldwide fans very easily. Without spending much time user can know many interesting facts about avengers. User can also watch movies through the links provided.
 # Making
 I have used basic concepts of web development to make this web application. I have used HTML5, CSS3 and JAVASCRIPT only. I have used slider, card, polaroid, table, figure, row column concepts for designing. I have used animationns for text, slideshow designing.
+
 *I have used _[marvel fandom wiki]_ (https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe) for references of every avengers' characters.*
+
 *In the home page in marvel studious I have used this link for _[avengers' bio]_(https://www.marvel.com/characters).*
+
 *I have used _[hotstar]_(https://www.hotstar.com/in) for movie links.*
 ## Screenshots 
 <img src="s1.PNG" width="450" height= "250"> <img src="s2.PNG" width="450" height= "250">
