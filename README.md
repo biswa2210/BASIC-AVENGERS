@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/advance-html-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/intermediate-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/intermediate-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/intermediate-javascript-yellow)](https://shields.io/)
 
 # BASIC-AVENGERS
 ## This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.
@@ -21,13 +21,13 @@ I have used basic concepts of web development to make this web application. I ha
 ### In the home page in marvel studious I have used this link for [avengers' bio](https://www.marvel.com/characters).
 ### I have used [hotstar](https://www.hotstar.com/in) for movie links.
 ## Screenshots 
-<img src="s1.PNG" width="500" height= "250"> <img src="s2.PNG" width="500" height= "250">
+<img src="s1.PNG" width="450" height= "250"> <img src="s2.PNG" width="450" height= "250">
 
-<img src="s3.PNG" width="500" height= "250"> <img src="s4.PNG" width="500" height= "250">
+<img src="s3.PNG" width="450" height= "250"> <img src="s4.PNG" width="450" height= "250">
 
-<img src="s5.PNG" width="500" height= "250"> <img src="s6.PNG" width="500" height= "250">
+<img src="s5.PNG" width="450" height= "250"> <img src="s6.PNG" width="450" height= "250">
 
-<img src="s7.PNG" width="500" height= "250"> <img src="s8.PNG" width="500" height= "250">
+<img src="s7.PNG" width="450" height= "250"> <img src="s8.PNG" width="450" height= "250">
 
-<img src="s9.PNG" width="500" height= "250"> <img src="s10.PNG" width="500" height= "250">
+<img src="s9.PNG" width="450" height= "250"> <img src="s10.PNG" width="450" height= "250">
 
