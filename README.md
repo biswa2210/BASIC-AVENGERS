@@ -30,6 +30,7 @@ I have used basic concepts of web development to make this web application. I ha
 
 *I have used _[hotstar]_(https://www.hotstar.com/in) for movie links.*
 ## Screenshots :point_down: 
+<div align="center">
 <img src="s1.PNG" width="450" height= "250"> <img src="s2.PNG" width="450" height= "250">
 
 <img src="s3.PNG" width="450" height= "250"> <img src="s4.PNG" width="450" height= "250">
@@ -39,4 +40,4 @@ I have used basic concepts of web development to make this web application. I ha
 <img src="s7.PNG" width="450" height= "250"> <img src="s8.PNG" width="450" height= "250">
 
 <img src="s9.PNG" width="450" height= "250"> <img src="s10.PNG" width="450" height= "250">
-
+</div>
