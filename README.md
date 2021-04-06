@@ -1,6 +1,7 @@
+# BASIC-AVENGERS :star_struck:
 [![Generic badge](https://img.shields.io/badge/intermediate-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/intermediate-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/intermediate-javascript-yellow)](https://shields.io/)
 
-# BASIC-AVENGERS :star_struck:
+
 ***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 *Email Id: bbiswa471@gmail.com.*
