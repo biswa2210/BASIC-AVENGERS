@@ -22,6 +22,21 @@ We all know how kids are crazy about superheroes and how they fascinate themselv
 The fans of mcu AVENGERS always want to explore about characters and the film series. So it is a great chance for them to easily and also explore the world of avengers very fast and efficiently without searching in google or any social media. :superhero_man: :superhero_woman: :supervillain:
 ## Importance :point_down:
 I have assembled all details and various interesting things about Avengers characters and films. So, it is a good way to explore marvel comics for the worldwide fans very easily. Without spending much time user can know many interesting facts about avengers. User can also watch movies through the links provided.
+## Folder Structure :point_down:
+```bash
+BASIC-AVENGERS
+     ├── heros
+     |     └── All html, css, js files of heros(96 files)
+     ├── villains
+     |     └── All html, css, js files of villains(35 files)
+     ├── images
+     |     └── All images in each character's folder
+     ├── marvel.html
+     ├── marvel.css
+     ├── index.html
+     ├── index.css
+     └── images of 82 characters and background image
+```
 # Making :point_down:
 I have used basic concepts of web development to make this web application. I have used HTML5, CSS3 and JAVASCRIPT only. I have used slider, card, polaroid, table, figure, row column concepts for designing. I have used animations for text, slideshow designing.
 
