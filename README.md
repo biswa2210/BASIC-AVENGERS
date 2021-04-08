@@ -21,7 +21,7 @@ We all know how kids are crazy about superheroes and how they fascinate themselv
 ## Use :point_down:
 The fans of mcu AVENGERS always want to explore about characters and the film series. So it is a great chance for them to easily and also explore the world of avengers very fast and efficiently without searching in google or any social media. :superhero_man: :superhero_woman: :supervillain:
 ## Importance :point_down:
-I have assembled all details and various interesting things about Avengers characters and films. So, it is a good way to explore marvel comics for the worldwide fans very easily. Without spending much time user can know many interesting facts about avengers. User can also watch movies through the links provided.
+The Marvel Cinematic Universe is a media franchise created by Marvel Studios, set primarily in a shared universe designated as the reality Earth-199999 within Marvel's multiverse system, with some installments also set in adjacents or branching realities. Starting with Iron Man, the franchise is comprised mainly of films independently made by Marvel Studios, that are primarily set within this same universe, much like Marvel has done with their comics. The franchise includes a series of short films, called Marvel One-Shots, launched with each film's Blu-ray release starting with Thor and finishing with Thor: The Dark World. There are worldwide fans of avengers in marvel comics and also in hollywood cinemas. I have assembled all details and various interesting things about Avengers characters and films. So, it is a good way to explore marvel comics for the worldwide fans very easily. Without spending much time user can know many interesting facts about avengers. User can also watch movies through the links provided.
 ## Folder Structure :point_down:
 ```bash
 BASIC-AVENGERS
@@ -47,13 +47,13 @@ I have used basic concepts of web development to make this web application. I ha
 *I have used _[hotstar]_(https://www.hotstar.com/in) for movie links.*
 ## Screenshots :point_down: 
 <div align="center">
-<img src="s1.PNG" width="400" height= "250"> <img src="s2.PNG" width="400" height= "250">
+<a href="s1.PNG"><img src="s1.PNG" width="400" height= "250"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "250"></a>
 
-<img src="s3.PNG" width="400" height= "250"> <img src="s4.PNG" width="400" height= "250">
+<a href="s3.PNG"><img src="s3.PNG" width="400" height= "250"></a> <a href="s4.PNG"><img src="s4.PNG" width="400" height= "250"></a>
 
-<img src="s5.PNG" width="400" height= "250"> <img src="s6.PNG" width="400" height= "250">
+<a href="s5.PNG"><img src="s5.PNG" width="400" height= "250"></a> <a href="s6.PNG"><img src="s6.PNG" width="400" height= "250"></a>
 
-<img src="s7.PNG" width="400" height= "250"> <img src="s8.PNG" width="400" height= "250">
+<a href="s7.PNG"><img src="s7.PNG" width="400" height= "250"></a> <a href="s8.PNG"><img src="s8.PNG" width="400" height= "250"></a>
 
-<img src="s9.PNG" width="400" height= "250"> <img src="s10.PNG" width="400" height= "250">
+<a href="s9.PNG"><img src="s9.PNG" width="400" height= "250"></a> <a href="s10.PNG"><img src="s10.PNG" width="400" height= "250"></a>
 </div>
