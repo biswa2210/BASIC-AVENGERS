@@ -23,70 +23,70 @@ The Avengers were a team of extraordinary individuals, with either superpowers o
  - [x] 'Heroes'
  - [x] 'Villains'
 
-<div align="center">
+<div align="left">
      
 <details>
      <summary>"Click to view heros' names"></summary>
- - IRONMAN
- - DOCTOR STRANGE
- - THOR
- - ANTMAN
- - CAPTAIN AMERICA
- - SPIDER MAN
- - SCARLETT WITCH
- - VISION
- - HULK
- - BLACK WIDOW
- - BLACK PANTHER
- - GROOT
- - STAR LORD
- - DRAX
- - GAMORA
- - NICK FURY
- - WARMACHINE
- - NEBULA
- - WINTER SOLDIER
- - HAWKEYE
- - ROCKET
- - CAPTAIN MARVEL
- - PEPPER POTTS
- - AGENT CARTER
- - JANE FOSTER
- - MARIA HILL
- - VALKYRE
- - WASP
- - FALCON
- - MANTIS
- - WONG
- - ANCIENT ONE
- - HEIMDAL
- - ODIN
- - HOWARD STARK
- - EITRI
+ - IRONMAN<br>
+ - DOCTOR STRANGE<br>
+ - THOR<br>
+ - ANTMAN<br>
+ - CAPTAIN AMERICA<br>
+ - SPIDER MAN<br>
+ - SCARLETT WITCH<br>
+ - VISION<br>
+ - HULK<br>
+ - BLACK WIDOW<br>
+ - BLACK PANTHER<br>
+ - GROOT<br>
+ - STAR LORD<br>
+ - DRAX<br>
+ - GAMORA<br>
+ - NICK FURY<br>
+ - WARMACHINE<br>
+ - NEBULA<br>
+ - WINTER SOLDIER<br>
+ - HAWKEYE<br>
+ - ROCKET<br>
+ - CAPTAIN MARVEL<br>
+ - PEPPER POTTS<br>
+ - AGENT CARTER<br>
+ - JANE FOSTER<br>
+ - MARIA HILL<br>
+ - VALKYRE<br>
+ - WASP<br>
+ - FALCON<br>
+ - MANTIS<br>
+ - WONG<br>
+ - ANCIENT ONE<br>
+ - HEIMDAL<br>
+ - ODIN<br>
+ - HOWARD STARK<br>
+ - EITRI<br>
  </details>
  
  </div>
  
- <div align="center">
+ <div align="left">
      
 <details>
      <summary>"Click to view villains' names"></summary>
- - LOKI
- - MYSTERIO
- - HELA
- - ULTRON 
- - SURTUR
- - EXTREMIS
- - IVAN VANKO
- - RONAN
- - PROXIMA MIDNIGHT
- - CORVUS GLAIVE
- - BLACK DWARF
- - EBONY MAW
- - GRAND MASTER
- - RED SKULL
- - OBEDIAH
- - THANOS
+ - LOKI<br>
+ - MYSTERIO<br>
+ - HELA<br>
+ - ULTRON<br>
+ - SURTUR<br>
+ - EXTREMIS<br>
+ - IVAN VANKO<br>
+ - RONAN<br>
+ - PROXIMA MIDNIGHT<br>
+ - CORVUS GLAIVE<br>
+ - BLACK DWARF<br>
+ - EBONY MAW<br>
+ - GRAND MASTER<br>
+ - RED SKULL<br>
+ - OBEDIAH<br>
+ - THANOS<br>
  
  </details>
  
