@@ -3,9 +3,9 @@
 
 ***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
-**Email Id: bbiswa471@gmail.com.*
+**Email Id: bbiswa471@gmail.com.**
 
-**Contact No: 916290272740.*
+**Contact No: 916290272740.**
 
 
 <p align="left">
