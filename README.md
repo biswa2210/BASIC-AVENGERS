@@ -27,7 +27,7 @@ The Avengers were a team of extraordinary individuals, with either superpowers o
 
 ## WEB DEV PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=8_QAOpUdaIY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5">Click here to watch</a>
 
-***LINK : :point_right:https://biswa2210.github.io/BASIC-AVENGERS/.***
+## LINK : :point_right:https://biswa2210.github.io/BASIC-AVENGERS/
 
 ### Types of characters of avengers :point_down:
  - [x] 'Heroes'
